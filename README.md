@@ -14,4 +14,6 @@ https://drive.google.com/drive/folders/1VTg-eoFSSfu_nbuiUlEm40b-ay_rNnOZ?hl=ru\
 
 <img width="1238" height="710" alt="image" src="https://github.com/user-attachments/assets/c744067b-b26a-4603-9775-70f58b41d9a0" />
 
+<img width="1269" height="706" alt="image" src="https://github.com/user-attachments/assets/88ffb68a-47ed-4e52-a474-f10a95463301" />
+
 <img width="1231" height="710" alt="image" src="https://github.com/user-attachments/assets/0d15469c-de76-429c-81c6-10b82c412162" />
