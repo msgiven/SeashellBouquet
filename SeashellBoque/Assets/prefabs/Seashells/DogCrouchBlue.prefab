@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7935966360923348736
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 128881688466529402}
+  - component: {fileID: 359976454480677421}
+  m_Layer: 0
+  m_Name: DogCrouchBlue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &128881688466529402
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7935966360923348736}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.8445396, y: -0, z: -0, w: 0.5354931}
+  m_LocalPosition: {x: -13.264095, y: 11.999, z: -20.716}
+  m_LocalScale: {x: 0.25, y: 0.25, z: 0.25}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 4849397113450628543}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: -115.245, y: 0, z: 0}
+--- !u!65 &359976454480677421
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7935966360923348736}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 2.257782, y: 1.2054124, z: 0.8980274}
+  m_Center: {x: 0.628891, y: -0.1809861, z: -0.07214858}
+--- !u!1001 &7335385567600644687
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 128881688466529402}
+    m_Modifications:
+    - target: {fileID: -6689036041284674117, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_Name
+      value: gastropod_lobatus_leidyi_adult_pri_76754
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 5.41
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.44
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -0.023202728
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.9865974
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.16004881
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.021714848
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3969827675772964164, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68f02cd2f762f7047b5afbd4c14ad29c, type: 2}
+    - target: {fileID: 4660063989460532833, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 68f02cd2f762f7047b5afbd4c14ad29c, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: -5645937942226959685, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+--- !u!4 &4849397113450628543 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 2774220344278030320, guid: 2770f9e9472970949bf2c2327b76bd02, type: 3}
+  m_PrefabInstance: {fileID: 7335385567600644687}
+  m_PrefabAsset: {fileID: 0}

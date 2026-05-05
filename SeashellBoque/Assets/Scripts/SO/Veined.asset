@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6eaea0a31212bdc4bbb74d7104baeaf0, type: 3}
+  m_Name: Veined
+  m_EditorClassIdentifier: 
+  image: {fileID: 2800000, guid: 4d99dfa2452e99b4dbed4848044e815c, type: 3}
+  model: {fileID: 4720635493648184553, guid: ab87ffb17d06848489493d8aa4856d3d, type: 3}
